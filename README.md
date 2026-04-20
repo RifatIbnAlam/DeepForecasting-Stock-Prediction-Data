@@ -1,6 +1,6 @@
 # DeepForecasting-Stock-Prediction-Data
 
-A deep learning project for forecasting stock prices using time series models applied to Microsoft and Bitcoin historical data.
+A deep learning project for forecasting stock prices using time series models applied to Microsoft' historical data.
 
 ## Overview
 
@@ -10,7 +10,6 @@ This repository contains data and a Jupyter Notebook for stock price prediction 
 
 - `Microsoft-Stock-Prediction.ipynb` — Jupyter Notebook with the full forecasting pipeline including data preprocessing, model building, training, and evaluation
 - - `Microsoft_Stock.csv` — Historical Microsoft (MSFT) stock price data
-  - - `BTC.csv` — Historical Bitcoin (BTC) price data
    
     - ## Technologies Used
    
